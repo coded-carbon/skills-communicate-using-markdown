@@ -12,5 +12,5 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ``` Javascript
-var myVar = "You, got this";
+var myVar = "You, got this!";
 ```
