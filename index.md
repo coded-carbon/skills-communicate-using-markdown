@@ -9,5 +9,4 @@
 ##### And move obstacles 
 
 ###### up. Up. and AWAAAAAYYYYYYY
-
-I was able to demonstrate the # function and it's effects on size of header etc. The more #'s the smaller it becomes 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
